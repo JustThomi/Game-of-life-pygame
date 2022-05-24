@@ -1,4 +1,7 @@
 ﻿# Conway's game of life
+ 
+![game of life](game_of_life.gif)
+ 
 Game of life also know as Life, is a cellular automation.
 It's basically an infinite grid of cells and each cell can be either dead or alive.
 The 3 simple rules this particular automation are:
